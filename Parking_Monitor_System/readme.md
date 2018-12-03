@@ -1,4 +1,10 @@
 A parking lot monitoring system that requires 2 PIR sensor.
+
+Hardware required:
+-A Wemos D1 wifi enabled board 
+-2 PIR Sensor 
+
+
 The purpose is to display how many available parking spaces left in a parking lot.
 
 One act as an entry while the other one act as the exit
