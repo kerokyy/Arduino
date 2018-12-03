@@ -1,7 +1,9 @@
 A parking lot monitoring system that requires 2 PIR sensor.
 
 Hardware required:
+
 -A Wemos D1 wifi enabled board 
+
 -2 PIR Sensor 
 
 
